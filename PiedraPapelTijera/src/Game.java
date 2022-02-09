@@ -15,6 +15,7 @@ public class Game {
 		System.out.println("Bienvenido a nuestro pequeño juego: Piedra Papel Tijeras :-D");
 	}
 
+	/* Imprime la ayuda */
 	private void printHelp() {
 		System.out.println("");
 		System.out.println("Ordenes y comandos válidos para el juego: ");
