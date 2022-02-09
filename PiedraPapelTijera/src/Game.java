@@ -13,6 +13,10 @@ public class Game {
 
 	private void welcome() {
 		System.out.println("Bienvenido a nuestro pequeño juego: Piedra Papel Tijeras :-D");
+		System.out.println("*******************************************");
+		System.out.println("Ordenes y comandos válidos para el juego: ");
+		System.out.println("*******************************************");
+		parser.showCommands();
 	}
 
 	/* Imprime la ayuda */
